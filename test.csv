@@ -1,0 +1,793 @@
+Name,Tries,Try Assists,Conversions,Penalties,Drop Goals,Points,Kick,Pass,Run,Metres,Clean Breaks,Defenders Beaten,Offloads,Lineouts Stolen,Turnovers,Tackles,Missed Tackles,Lineouts Won,Penalties,Yellows,Reds
+
+B KinghornFB,0,0,0,0,0,0
+D HoylandW,0,0,0,0,0,0
+C DeanC,0,0,0,0,0,0
+P BurleighC,0,0,0,0,0,0
+T BrownW,0,0,0,0,0,0
+J ToveyFH,0,0,0,3,0,9
+S KennedySH,0,0,0,0,0,0
+J CosgroveP,0,0,0,0,0,0
+N CochraneH,0,0,0,0,0,0
+M McCallumP,0,0,0,0,0,0
+F McKenzieL,0,0,0,0,0,0
+B ToolisL,0,0,0,0,0,0
+M BradburyFL,0,0,0,0,0,0
+J HardieFL,0,0,0,0,0,0
+C PreezN8,0,0,0,0,0,0
+S McInallyR,0,0,0,0,0,0
+D AppiahR,0,0,0,0,0,0
+N BeavonR,0,0,0,0,0,0
+L CarmichaelR,0,0,0,0,0,0
+V MataR,0,0,0,0,0,0
+S Hidalgo-ClyneR,0,0,0,0,0,0
+M AllenR,0,0,0,0,0,0
+R ScholesR,0,0,0,0,0,0
+
+J TauteFB,0,0,0,0,0,0
+C NashW,0,0,0,0,0,0
+F SailiC,0,0,0,0,0,0
+D GogginC,0,0,0,0,0,0
+R O'MahonyW,1,0,0,0,0,5
+T BleyendaalFH,0,1,1,1,0,5
+D WilliamsSH,0,0,0,0,0,0
+P McCabeP,0,0,0,0,0,0
+R MarshallH,0,0,0,0,0,0
+S ArcherP,0,0,0,0,0,0
+J KleynL,0,0,0,0,0,0
+D FoleyL,0,0,0,0,0,0
+D O'CallaghanFL,0,0,0,0,0,0
+C OliverFL,0,0,0,0,0,0
+J O'DonoghueN8,0,0,0,0,0,0
+K O'ByrneR,0,0,0,0,0,0
+D KilcoyneR,0,0,0,0,0,0
+B ScottR,0,0,0,0,0,0
+D O'SheaR,0,0,0,0,0,0
+B HollandR,0,0,0,0,0,0
+T O'DonnellR,0,0,0,0,0,0
+A LloydR,0,0,0,0,0,0
+R ScannellR,0,0,0,0,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+B KinghornFB,0,0,4,11,0,2,0,0
+D HoylandW,0,1,8,55,1,4,0,0
+C DeanC,0,1,3,0,1,2,0,0
+P BurleighC,0,2,4,5,0,1,0,0
+T BrownW,0,2,3,17,0,1,0,0
+J ToveyFH,0,11,3,19,0,1,0,0
+S KennedySH,0,40,7,11,0,0,3,0
+J CosgroveP,0,1,6,7,0,0,0,0
+N CochraneH,0,0,2,0,0,0,0,0
+M McCallumP,0,4,8,1,0,1,0,0
+F McKenzieL,0,3,8,5,0,0,0,0
+B ToolisL,0,0,6,7,1,2,0,0
+M BradburyFL,0,3,7,19,0,2,0,0
+J HardieFL,0,0,4,8,0,0,0,0
+C PreezN8,0,6,7,13,0,0,1,0
+S McInallyR,0,0,7,5,0,0,0,0
+D AppiahR,0,0,0,0,0,0,0,0
+N BeavonR,0,0,0,0,0,0,0,0
+L CarmichaelR,0,0,0,0,0,0,0,0
+V MataR,0,1,2,1,0,0,1,0
+S Hidalgo-ClyneR,0,27,1,10,0,0,0,0
+M AllenR,0,1,1,0,0,0,0,0
+R ScholesR,0,0,0,0,0,0,0,0
+
+J TauteFB,0,5,8,35,0,3,2,0
+C NashW,0,2,2,17,0,0,0,0
+F SailiC,0,4,4,6,0,0,1,0
+D GogginC,0,3,11,24,0,2,1,0
+R O'MahonyW,0,3,10,45,1,0,0,0
+T BleyendaalFH,0,15,4,38,0,2,1,0
+D WilliamsSH,0,57,3,10,1,0,1,0
+P McCabeP,0,0,2,9,0,1,0,0
+R MarshallH,0,4,6,33,1,3,1,0
+S ArcherP,0,3,2,0,0,0,0,0
+J KleynL,0,3,5,3,0,0,0,0
+D FoleyL,0,2,5,1,0,0,0,0
+D O'CallaghanFL,0,1,5,2,0,0,0,0
+C OliverFL,0,2,3,19,1,2,0,0
+J O'DonoghueN8,0,9,8,19,1,2,0,0
+K O'ByrneR,0,1,3,3,0,0,0,0
+D KilcoyneR,0,1,5,9,0,0,0,0
+B ScottR,0,1,1,0,0,0,0,0
+D O'SheaR,0,0,1,0,0,0,0,0
+B HollandR,0,2,1,0,0,0,0,0
+T O'DonnellR,0,0,6,19,0,0,0,0
+A LloydR,0,0,0,0,0,0,0,0
+R ScannellR,0,1,2,1,0,0,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+B KinghornFB,1,2,3,0
+D HoylandW,1,5,0,0
+C DeanC,2,4,2,0
+P BurleighC,1,8,1,0
+T BrownW,1,4,1,0
+J ToveyFH,4,4,2,0
+S KennedySH,0,5,1,0
+J CosgroveP,0,6,0,0
+N CochraneH,0,8,0,7
+M McCallumP,0,5,1,0
+F McKenzieL,0,10,0,0
+B ToolisL,1,11,2,0
+M BradburyFL,1,11,2,0
+J HardieFL,1,10,0,0
+C PreezN8,1,12,0,0
+S McInallyR,2,5,0,4
+D AppiahR,0,0,0,0
+N BeavonR,0,0,0,0
+L CarmichaelR,0,0,0,0
+V MataR,0,1,0,0
+S Hidalgo-ClyneR,0,1,0,0
+M AllenR,0,0,0,0
+R ScholesR,0,0,0,0
+
+J TauteFB,2,2,0,0
+C NashW,3,1,0,0
+F SailiC,3,6,3,0
+D GogginC,1,0,2,0
+R O'MahonyW,2,4,3,0
+T BleyendaalFH,1,12,1,0
+D WilliamsSH,3,6,1,0
+P McCabeP,0,2,0,0
+R MarshallH,3,4,2,7
+S ArcherP,0,5,2,0
+J KleynL,0,8,0,0
+D FoleyL,0,2,0,0
+D O'CallaghanFL,1,8,0,0
+C OliverFL,1,3,0,0
+J O'DonoghueN8,2,12,0,0
+K O'ByrneR,0,4,0,5
+D KilcoyneR,0,5,1,0
+B ScottR,0,8,0,0
+D O'SheaR,0,5,0,0
+B HollandR,0,7,1,0
+T O'DonnellR,0,6,0,0
+A LloydR,0,0,0,0
+R ScannellR,2,2,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+B KinghornFB,0,0,0
+D HoylandW,0,0,0
+C DeanC,0,0,0
+P BurleighC,1,0,0
+T BrownW,0,0,0
+J ToveyFH,0,0,0
+S KennedySH,0,0,0
+J CosgroveP,3,0,0
+N CochraneH,0,0,0
+M McCallumP,0,0,0
+F McKenzieL,0,0,0
+B ToolisL,0,0,0
+M BradburyFL,1,0,0
+J HardieFL,1,0,0
+C PreezN8,0,0,0
+S McInallyR,0,0,0
+D AppiahR,0,0,0
+N BeavonR,0,0,0
+L CarmichaelR,0,0,0
+V MataR,0,0,0
+S Hidalgo-ClyneR,0,0,0
+M AllenR,0,0,0
+R ScholesR,0,0,0
+
+J TauteFB,0,0,0
+C NashW,0,0,0
+F SailiC,0,0,0
+D GogginC,0,0,0
+R O'MahonyW,0,0,0
+T BleyendaalFH,0,0,0
+D WilliamsSH,1,1,0
+P McCabeP,1,0,0
+R MarshallH,0,0,0
+S ArcherP,2,0,0
+J KleynL,0,0,0
+D FoleyL,0,0,0
+D O'CallaghanFL,1,0,0
+C OliverFL,0,0,0
+J O'DonoghueN8,2,0,0
+K O'ByrneR,0,0,0
+D KilcoyneR,1,0,0
+B ScottR,1,0,0
+D O'SheaR,0,0,0
+B HollandR,0,0,0
+T O'DonnellR,2,0,0
+A LloydR,0,0,0
+R ScannellR,0,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+C GaffneyFB,0,0,0,0,0,0
+P BrunoW,0,0,0,0,0,0
+G BisegniC,1,0,0,0,0,5
+F AfamasagaC,0,0,0,0,0,0
+G VendittiW,1,0,0,0,0,5
+M AzzoliniFH,0,1,0,0,0,0
+G PalazzaniSH,0,2,2,0,0,4
+C Ah-NauP,0,0,0,0,0,0
+L LuusH,0,0,0,0,0,0
+E BelloP,0,0,0,0,0,0
+J TuckerL,0,0,0,0,0,0
+L KrumovL,0,0,0,0,0,0
+J SartoFL,1,0,0,0,0,5
+J MeyerFL,0,0,0,0,0,0
+D MinnieN8,0,0,0,0,0,0
+O FabianiR,0,0,0,0,0,0
+A MarchiR,0,0,0,0,0,0
+R TengaR,0,0,0,0,0,0
+D FragnitoR,0,0,0,0,0,0
+M MbandaR,0,0,0,0,0,0
+R RaffaeleR,0,0,0,0,0,0
+M PratichettiR,0,0,0,0,0,0
+G D'OnofrioR,0,0,0,0,0,0
+
+S ZeboFB,0,1,0,0,0,0
+D SweetnamW,0,0,0,0,0,0
+S ArnoldC,0,0,0,0,0,0
+R ScannellC,1,1,0,0,0,5
+A WoottonW,2,0,0,0,0,10
+J HanrahanFH,0,1,4,1,0,11
+J HartSH,1,0,0,0,0,5
+L O'ConnorP,0,0,0,0,0,0
+R MarshallH,0,0,0,0,0,0
+S ArcherP,0,0,0,0,0,0
+J KleynL,0,0,0,0,0,0
+B HollandL,0,0,0,0,0,0
+J O'DonoghueFL,0,0,0,0,0,0
+C CloeteFL,0,0,0,0,0,0
+R CopelandN8,0,0,0,0,0,0
+K O'ByrneR,0,0,0,0,0,0
+B ScottR,0,0,0,0,0,0
+C ParkerR,0,0,0,0,0,0
+D O'SheaR,0,0,0,0,0,0
+S O'ConnorR,0,0,0,0,0,0
+J StaffordR,0,1,0,0,0,0
+B JohnstonR,0,0,0,0,0,0
+C NashR,1,0,0,0,0,5
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,20,-366,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+4,TRE,20,+29,52
+5,EDINB,20,+19,51
+3,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+C GaffneyFB,0,4,12,30,0,3,0,0
+P BrunoW,0,2,4,30,1,0,0,0
+G BisegniC,0,1,6,7,1,2,0,0
+F AfamasagaC,0,2,11,37,1,0,0,0
+G VendittiW,0,1,5,14,1,1,1,0
+M AzzoliniFH,0,14,8,8,0,2,0,0
+G PalazzaniSH,0,88,6,3,0,0,0,0
+C Ah-NauP,0,0,2,1,0,0,0,0
+L LuusH,0,3,1,0,0,0,0,0
+E BelloP,0,1,3,0,0,0,0,0
+J TuckerL,0,2,6,4,0,0,0,0
+L KrumovL,0,2,2,0,0,0,1,0
+J SartoFL,0,3,11,21,1,1,0,0
+J MeyerFL,0,3,13,27,0,1,0,0
+D MinnieN8,0,2,7,7,0,0,0,0
+O FabianiR,0,0,4,11,0,0,0,0
+A MarchiR,0,0,0,0,0,0,0,0
+R TengaR,0,1,3,3,0,0,1,0
+D FragnitoR,0,0,2,0,0,0,0,0
+M MbandaR,0,1,7,34,1,2,0,0
+R RaffaeleR,0,0,0,0,0,0,0,0
+M PratichettiR,0,0,0,0,0,0,0,0
+G D'OnofrioR,0,0,0,0,0,0,0,0
+
+S ZeboFB,0,7,7,42,0,0,2,0
+D SweetnamW,0,2,3,2,0,0,1,0
+S ArnoldC,0,1,2,4,0,0,0,0
+R ScannellC,0,3,6,13,1,0,0,0
+A WoottonW,0,4,11,94,2,6,1,0
+J HanrahanFH,0,10,0,0,0,0,0,0
+J HartSH,0,34,3,8,0,0,0,0
+L O'ConnorP,0,1,5,1,0,0,0,0
+R MarshallH,0,8,6,64,1,0,1,0
+S ArcherP,0,4,4,8,0,0,0,0
+J KleynL,0,0,6,6,0,0,0,0
+B HollandL,0,6,7,5,0,0,1,0
+J O'DonoghueFL,0,2,4,6,0,0,0,0
+C CloeteFL,0,2,3,5,0,2,0,0
+R CopelandN8,0,3,5,17,0,1,0,0
+K O'ByrneR,0,0,2,0,0,0,0,0
+B ScottR,0,1,4,2,0,0,1,0
+C ParkerR,0,0,0,0,0,0,0,0
+D O'SheaR,0,0,2,0,0,0,0,0
+S O'ConnorR,0,0,0,0,0,0,0,0
+J StaffordR,0,9,1,2,0,0,0,0
+B JohnstonR,0,1,0,0,0,0,0,0
+C NashR,0,0,1,3,1,1,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,20,-366,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+4,TRE,20,+29,52
+5,EDINB,20,+19,51
+3,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+C GaffneyFB,2,1,0,0
+P BrunoW,3,3,2,0
+G BisegniC,1,4,1,0
+F AfamasagaC,1,5,0,0
+G VendittiW,0,0,0,0
+M AzzoliniFH,1,9,0,0
+G PalazzaniSH,3,5,0,0
+C Ah-NauP,1,7,2,0
+L LuusH,0,4,0,11
+E BelloP,1,3,1,0
+J TuckerL,1,5,1,0
+L KrumovL,0,6,0,0
+J SartoFL,0,13,1,0
+J MeyerFL,0,14,1,0
+D MinnieN8,0,4,0,0
+O FabianiR,0,7,0,7
+A MarchiR,0,2,0,0
+R TengaR,0,2,0,0
+D FragnitoR,0,3,0,0
+M MbandaR,1,7,1,0
+R RaffaeleR,0,0,0,0
+M PratichettiR,0,0,0,0
+G D'OnofrioR,0,0,0,0
+
+S ZeboFB,0,3,0,0
+D SweetnamW,2,6,0,0
+S ArnoldC,0,14,2,0
+R ScannellC,0,10,0,0
+A WoottonW,1,4,1,0
+J HanrahanFH,2,17,1,0
+J HartSH,1,4,1,0
+L O'ConnorP,0,14,1,0
+R MarshallH,1,8,1,6
+S ArcherP,0,11,0,0
+J KleynL,0,12,1,0
+B HollandL,0,10,1,0
+J O'DonoghueFL,1,11,1,0
+C CloeteFL,0,14,0,0
+R CopelandN8,0,10,1,0
+K O'ByrneR,0,5,0,5
+B ScottR,0,5,1,0
+C ParkerR,0,0,0,0
+D O'SheaR,0,3,0,0
+S O'ConnorR,0,1,0,0
+J StaffordR,0,0,0,0
+B JohnstonR,0,0,0,0
+C NashR,0,3,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,20,-366,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+4,TRE,20,+29,52
+5,EDINB,20,+19,51
+3,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+C GaffneyFB,1,0,0
+P BrunoW,0,0,0
+G BisegniC,0,0,0
+F AfamasagaC,0,0,0
+G VendittiW,1,0,0
+M AzzoliniFH,0,0,0
+G PalazzaniSH,0,0,0
+C Ah-NauP,2,0,0
+L LuusH,0,0,0
+E BelloP,1,0,0
+J TuckerL,0,0,0
+L KrumovL,2,0,0
+J SartoFL,0,0,0
+J MeyerFL,0,0,0
+D MinnieN8,0,0,0
+O FabianiR,1,0,0
+A MarchiR,0,0,0
+R TengaR,1,0,0
+D FragnitoR,0,0,0
+M MbandaR,1,0,0
+R RaffaeleR,0,0,0
+M PratichettiR,0,0,0
+G D'OnofrioR,0,0,0
+
+S ZeboFB,0,0,0
+D SweetnamW,0,0,0
+S ArnoldC,2,1,0
+R ScannellC,0,0,0
+A WoottonW,0,0,0
+J HanrahanFH,2,0,0
+J HartSH,0,0,0
+L O'ConnorP,0,0,0
+R MarshallH,2,0,0
+S ArcherP,0,0,0
+J KleynL,2,0,0
+B HollandL,0,0,0
+J O'DonoghueFL,1,0,0
+C CloeteFL,1,0,0
+R CopelandN8,2,1,0
+K O'ByrneR,0,0,0
+B ScottR,1,0,0
+C ParkerR,0,0,0
+D O'SheaR,0,0,0
+S O'ConnorR,0,0,0
+J StaffordR,0,0,0
+B JohnstonR,0,0,0
+C NashR,0,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,20,-366,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+4,TRE,20,+29,52
+5,EDINB,20,+19,51
+3,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+A ConwayFB,1,0,0,0,0,5
+D SweetnamW,0,0,0,0,0,0
+J TauteC,2,0,0,0,0,10
+R ScannellC,0,0,0,0,0,0
+R O'MahonyW,1,0,0,0,0,5
+T BleyendaalFH,0,1,6,1,0,15
+D WilliamsSH,0,3,0,0,0,0
+D KilcoyneP,1,0,0,0,0,5
+R MarshallH,0,0,0,0,0,0
+S ArcherP,0,0,0,0,0,0
+J KleynL,0,0,0,0,0,0
+D FoleyL,0,0,0,0,0,0
+D O'CallaghanFL,0,0,0,0,0,0
+T O'DonnellFL,0,0,0,0,0,0
+J O'DonoghueN8,0,0,0,0,0,0
+K O'ByrneR,0,0,0,0,0,0
+P McCabeR,0,0,0,0,0,0
+B ScottR,0,0,0,0,0,0
+D O'SheaR,0,0,0,0,0,0
+C OliverR,0,0,0,0,0,0
+A GrieselR,0,0,0,0,0,0
+F SailiR,0,0,0,0,0,0
+D GogginR,0,0,0,0,0,0
+
+C MeyerFB,0,0,0,0,0,0
+A HughesW,0,0,0,0,0,0
+T MorganC,0,0,0,0,0,0
+A WarrenC,0,0,0,0,0,0
+P HowardW,0,0,0,0,0,0
+D JonesFH,0,0,2,1,0,7
+T KnoyleSH,0,0,0,0,0,0
+S HobbsP,0,0,0,0,0,0
+R BuckleyH,1,0,0,0,0,5
+B HarrisP,0,0,0,0,0,0
+M ScreechL,0,0,0,0,0,0
+R LandmanL,0,0,0,0,0,0
+O GriffithsFL,0,0,0,0,0,0
+N CuddFL,0,0,0,0,0,0
+L EvansN8,0,0,0,0,0,0
+E DeeR,1,0,0,0,0,5
+T DaviesR,0,0,0,0,0,0
+L FairbrotherR,0,0,0,0,0,0
+N CrosswellR,0,0,0,0,0,0
+H KeddieR,0,0,0,0,0,0
+S PretoriusR,0,0,0,0,0,0
+A O'BrienR,0,0,0,0,0,0
+S BeardR,0,0,0,0,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+A ConwayFB,0,2,2,34,1,1,0,0
+D SweetnamW,0,1,4,33,2,3,0,0
+J TauteC,0,3,12,13,1,2,1,0
+R ScannellC,0,5,8,53,2,6,0,0
+R O'MahonyW,0,1,11,90,2,4,0,0
+T BleyendaalFH,0,20,7,51,2,0,1,0
+D WilliamsSH,0,83,6,11,1,1,2,0
+D KilcoyneP,0,2,17,18,0,3,0,0
+R MarshallH,0,3,10,15,0,1,0,0
+S ArcherP,0,2,5,7,0,0,0,0
+J KleynL,0,1,3,8,0,1,0,0
+D FoleyL,0,2,5,3,0,0,0,0
+D O'CallaghanFL,0,2,6,9,0,0,0,0
+T O'DonnellFL,0,3,10,10,0,0,1,0
+J O'DonoghueN8,0,3,12,52,0,2,1,0
+K O'ByrneR,0,0,5,4,0,2,0,0
+P McCabeR,0,0,0,0,0,0,0,0
+B ScottR,0,1,3,1,0,0,0,0
+D O'SheaR,0,1,4,24,1,1,0,0
+C OliverR,0,1,7,12,0,1,0,0
+A GrieselR,0,2,1,10,1,0,0,0
+F SailiR,0,2,2,3,0,0,0,0
+D GogginR,0,0,4,48,1,3,0,0
+
+C MeyerFB,0,3,6,34,1,2,1,0
+A HughesW,0,3,1,4,0,0,0,0
+T MorganC,0,1,3,41,1,3,0,0
+A WarrenC,0,1,2,0,0,0,0,0
+P HowardW,0,0,8,25,2,1,0,0
+D JonesFH,0,6,5,23,0,2,1,0
+T KnoyleSH,0,33,6,10,0,1,1,0
+S HobbsP,0,1,5,4,0,0,0,0
+R BuckleyH,0,0,3,0,0,0,0,0
+B HarrisP,0,3,1,0,0,0,0,0
+M ScreechL,0,1,5,2,0,0,0,0
+R LandmanL,0,3,1,1,0,0,1,0
+O GriffithsFL,0,4,4,10,0,0,0,0
+N CuddFL,0,5,7,17,0,0,1,0
+L EvansN8,0,4,10,24,0,0,0,0
+E DeeR,0,2,4,2,0,0,0,0
+T DaviesR,0,0,2,5,0,0,0,0
+L FairbrotherR,0,0,3,3,0,0,0,0
+N CrosswellR,0,2,1,1,0,0,0,0
+H KeddieR,0,2,4,6,0,1,0,0
+S PretoriusR,0,19,3,9,0,1,2,0
+A O'BrienR,0,8,3,36,1,4,1,0
+S BeardR,0,0,1,0,0,0,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+A ConwayFB,0,3,0,0
+D SweetnamW,0,3,2,0
+J TauteC,2,2,0,0
+R ScannellC,1,7,1,0
+R O'MahonyW,2,5,1,0
+T BleyendaalFH,2,7,0,0
+D WilliamsSH,1,6,0,0
+D KilcoyneP,0,1,1,0
+R MarshallH,0,2,0,12
+S ArcherP,0,3,0,0
+J KleynL,0,1,0,0
+D FoleyL,0,3,0,0
+D O'CallaghanFL,0,7,0,0
+T O'DonnellFL,0,9,0,0
+J O'DonoghueN8,0,6,1,0
+K O'ByrneR,0,3,1,1
+P McCabeR,0,1,1,0
+B ScottR,1,4,2,0
+D O'SheaR,0,2,2,0
+C OliverR,0,7,0,0
+A GrieselR,0,2,0,0
+F SailiR,0,3,2,0
+D GogginR,0,1,1,0
+
+C MeyerFB,1,2,2,0
+A HughesW,0,0,2,0
+T MorganC,2,4,2,0
+A WarrenC,1,3,2,0
+P HowardW,2,3,1,0
+D JonesFH,0,6,1,0
+T KnoyleSH,1,6,0,0
+S HobbsP,0,14,1,0
+R BuckleyH,0,11,1,11
+B HarrisP,0,16,1,0
+M ScreechL,0,12,0,0
+R LandmanL,1,11,3,0
+O GriffithsFL,0,17,2,0
+N CuddFL,0,18,0,0
+L EvansN8,0,19,2,0
+E DeeR,0,5,3,4
+T DaviesR,0,6,0,0
+L FairbrotherR,0,2,1,0
+N CrosswellR,1,8,3,0
+H KeddieR,0,3,0,0
+S PretoriusR,0,2,0,0
+A O'BrienR,2,1,2,0
+S BeardR,0,4,2,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
+
+A ConwayFB,0,0,0
+D SweetnamW,0,0,0
+J TauteC,2,0,0
+R ScannellC,0,0,0
+R O'MahonyW,0,0,0
+T BleyendaalFH,0,0,0
+D WilliamsSH,0,0,0
+D KilcoyneP,1,0,0
+R MarshallH,0,0,0
+S ArcherP,3,0,0
+J KleynL,1,0,0
+D FoleyL,1,0,0
+D O'CallaghanFL,0,0,0
+T O'DonnellFL,1,0,0
+J O'DonoghueN8,1,0,0
+K O'ByrneR,0,0,0
+P McCabeR,0,0,0
+B ScottR,0,0,0
+D O'SheaR,1,1,0
+C OliverR,1,0,0
+A GrieselR,0,0,0
+F SailiR,0,0,0
+D GogginR,0,0,0
+
+C MeyerFB,1,1,0
+A HughesW,0,0,0
+T MorganC,1,0,0
+A WarrenC,0,0,0
+P HowardW,0,0,0
+D JonesFH,0,0,0
+T KnoyleSH,0,0,0
+S HobbsP,1,0,0
+R BuckleyH,1,0,0
+B HarrisP,2,0,0
+M ScreechL,0,0,0
+R LandmanL,1,0,0
+O GriffithsFL,1,0,0
+N CuddFL,1,0,0
+L EvansN8,1,0,0
+E DeeR,0,0,0
+T DaviesR,0,0,0
+L FairbrotherR,1,0,0
+N CrosswellR,0,0,0
+H KeddieR,0,0,0
+S PretoriusR,0,0,0
+A O'BrienR,0,0,0
+S BeardR,0,0,0
+
+
+1,GLASG,20,+217,76
+2,MUNST,20,+251,73
+3,CONN,20,+94,61
+4,OSP,20,+38,54
+5,CDB,20,+49,53
+6,CHE,21,-65,46
+7,ZEB,21,-380,19
+
+
+1,LEINS,20,+288,75
+2,ULST,20,+16,59
+3,TRE,21,+43,57
+5,EDINB,20,+19,51
+4,SCARL,21,+40,52
+7,STHK,21,-350,22
+6,DRA,21,-260,26
